@@ -1,0 +1,8 @@
+[Oo]bj/
+[Bb]in/
+*.suo
+*.user
+*.vspscc
+*.vssscc
+_ReSharper.*/
+packages/
